@@ -13,3 +13,4 @@ c.NotebookApp.use_redirect_file = False
 oracle sql developer: https://www.oracle.com/tools/downloads/sqldev-downloads.html
 sudo apt-get install alien
 sudo alien -i file.rpm
+sudo update-alternatives --config java
