@@ -14,3 +14,7 @@ oracle sql developer: https://www.oracle.com/tools/downloads/sqldev-downloads.ht
 sudo apt-get install alien
 sudo alien -i file.rpm
 sudo update-alternatives --config java
+
+install jupyter contrib: https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
