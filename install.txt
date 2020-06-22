@@ -18,3 +18,6 @@ sudo update-alternatives --config java
 install jupyter contrib: https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
+
+
+connect database to jupyter notebook: https://towardsdatascience.com/jupyter-notebook-forget-csv-fetch-data-from-db-with-python-5ef1a56402f2
